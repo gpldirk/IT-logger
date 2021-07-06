@@ -1,4 +1,4 @@
-# IT Logger - React App + Json-Server
+# IT Logger - React App + Json-Server (using Redux)
 ```
 git clone https://github.com/gpldirk/IT-logger.git
 ```
