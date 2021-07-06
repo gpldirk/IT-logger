@@ -1,0 +1,14 @@
+export const GET_LOGS = 'GET_LOGS';
+export const ADD_LOG = 'ADD_LOG';
+export const DELETE_LOG = 'DELETE_LOG';
+export const SET_CURRENT = 'SET_CURRENT';
+export const CLEAR_CURRENT = 'CLEAR_CURRENT';
+export const UPDATE_LOG = 'UPDATE_LOG';
+export const CLEAR_LOGS = 'CLEAR_LOGS';
+export const SET_LOADING = 'SET_LOADING';
+export const LOGS_ERROR = 'LOGS_ERROR';
+export const SEARCH_LOGS = 'SEARCH_LOGS';
+export const GET_USERS = 'GET_USERS';
+export const ADD_USER = 'ADD_USER';
+export const DELETE_USER = 'DELETE_USER';
+export const USERS_ERROR = 'USERS_ERROR';
